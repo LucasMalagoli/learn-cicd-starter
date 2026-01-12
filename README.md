@@ -1,4 +1,5 @@
 Malagoli's version of Boot.dev's Notely app
+[![Tests](https://github.com/LucasMalagoli/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasMalagoli/learn-cicd-starter/actions/workflows/ci.yml)
 
 # learn-cicd-starter (Notely)
 
